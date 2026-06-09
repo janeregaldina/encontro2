@@ -104,6 +104,6 @@ npm test
 
 ## Autora
 
-Janere Silva
+Janere Galdina
 
 Curso de Ciência da Computação – UEPB
