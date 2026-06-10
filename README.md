@@ -102,8 +102,8 @@ npm test
 
 ---
 
-## Autora
 
-Janere Galdina
 
-Curso de Ciência da Computação – UEPB
+
+
+
